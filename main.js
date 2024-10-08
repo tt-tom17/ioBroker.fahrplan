@@ -10,11 +10,11 @@ const fDepTT = require("./lib/deptt.js");
 const fStation = require("./lib/station.js");
 */
 import utils from '@iobroker/adapter-core';
-import fHelpers from './lib/helper';
-import fRoute from './lib/route';
-import fOptions from './lib/options';
-import fDepTT from './lib/deptt';
-import fStation from './lib/station';
+import fHelpers from './lib/helper.js';
+import fRoute from './lib/route.js';
+import fOptions from './lib/options.js';
+import fDepTT from './lib/deptt.js';
+import fStation from './lib/station.js';
 
 //#region Global Variables
 /*
