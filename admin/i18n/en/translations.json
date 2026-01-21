@@ -41,6 +41,7 @@
     "Timetable": "Timetable",
     "TimetableDelay": "Timetable & Delay",
     "TimetableDelayPlatform": "Timetable & Delay & Platform",
+    "TimetableDelayPlatformLine": "Timetable & Delay & Platform & Line",
     "TrainType": "Vehicle",
     "Transfers": "Max. transfers",
     "Tuesday": "Tuesday",

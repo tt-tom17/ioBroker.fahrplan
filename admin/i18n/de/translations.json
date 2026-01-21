@@ -41,6 +41,7 @@
     "Timetable": "Zeiten",
     "TimetableDelay": "Zeiten & Verspätung",
     "TimetableDelayPlatform": "Zeiten & Verspätung & Bahnsteig",
+    "TimetableDelayPlatformLine": "Zeiten & Verspätung & Bahnsteig & Gleis",
     "TrainType": "Verkehrsmittel",
     "Transfers": "Max. Umstiege",
     "Tuesday": "Dienstag",
